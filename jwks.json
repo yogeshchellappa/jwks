@@ -2,7 +2,6 @@
    "keys":[ 
       { 
          "kty":"RSA",
-         "x5t#S256":"xy3cOclJJ2x7PhJuboFKn_6KwF5r6BR0v2IvgReOhBU",
          "e":"AQAB",
          "x5t":"5c214c25afcaa71b71b628ea33b0d89c61fd5025",
          "use":"sig",
@@ -16,7 +15,6 @@
       },
       { 
          "kty":"RSA",
-         "x5t#S256":"4puC0zGW04vj-Rjf83aFQZ3OFII3ypH6FdqmYmXj-N8",
          "e":"AQAB",
          "x5t":"2bb93cd69a269cb88ed4780ebdc34ca1502beb7f",
          "use":"sig",
